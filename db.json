@@ -1,7 +1,7 @@
 {
   "artickles": [
-    { "PluNumber": 1, "Name": "Post 1", "Composition": "Composition 1" },
-    { "PluNumber": 2, "Name": "Post 2", "Composition": "Composition 2" },
-    { "PluNumber": 3, "Name": "Post 3", "Composition": "Composition 3" }
+    { "PluNumber": 1, "Name": "Post 1", "Composition": "Composition 1", "ShelveLifeDays": 25, "PluType": 0, "UnitPrice": 12345 },
+    { "PluNumber": 2, "Name": "Post 2", "Composition": "Composition 2", "ShelveLifeDays": 10, "PluType": 1, "UnitPrice": 4321 },
+    { "PluNumber": 3, "Name": "Post 3", "Composition": "Composition 3", "ShelveLifeDays": 22, "PluType": 0, "UnitPrice": 123412 }
   ]
 }
