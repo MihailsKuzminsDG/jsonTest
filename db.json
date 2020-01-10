@@ -1,0 +1,10 @@
+[
+	{
+		"PluNumber": 1,
+		"Name": "Some article name",
+		"Composition": "Some composition",
+		"ShelveLifeDays": 20,
+		"PluType": 2,
+		"UnitPrice": 5432
+	}
+]
