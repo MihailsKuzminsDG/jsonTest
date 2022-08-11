@@ -1,7 +1,106 @@
-{
-  "articles": [
-    { "PluNumber": 1, "Name": "Post 1", "Composition": "Composition 1", "ShelveLifeDays": 25, "PluType": 1, "UnitPrice": 12345 },
-    { "PluNumber": 2, "Name": "Post 2", "Composition": "Composition 2", "ShelveLifeDays": 10, "PluType": 1, "UnitPrice": 4321 },
-    { "PluNumber": 3, "Name": "Post 3", "Composition": "Composition 3", "ShelveLifeDays": 22, "PluType": 1, "UnitPrice": 123412 }
-  ]
-}
+[
+  {
+    "id": "2000612500002",
+    "references": [],
+    "name": "Pirkka jäävuorisalaatti",
+    "price": 4.15,
+    "unitPrice": 13.83,
+    "unitPriceUnit": "kg",
+    "capacity": "0.3",
+    "classification": { "class": "1lk" },
+    "fresh": { "origin": "Suomi" },
+    "composition": {
+      "allergens": {
+        "contains": [
+          "Sisältää Maito, Lupiini"
+        ],
+        "mayContain": [
+          "Saattaa sisältää Gluteenia sisältävät viljat ja -tuotteet"
+        ]
+      }
+    },
+    "instructions": { 
+      "recyclingInstructions": "Roskat eivät kuulu luontoon. Lajittele pakkaus kartonkina ja metallina.",
+      "consumerUsageInstructions": null,
+      "consumerStorageInstructions": "Säilytys alle +6 °C",
+      "bestBefore": 2,
+      "expirationDate": null,
+      "compulsoryAdditiveLabelInformation": null,
+      "preparationInstructions": [
+        {
+          "preparationTypeCode": "UNSPECIFIED",
+          "preparationType": "Määrittelemätön",
+          "preparationInstructions": "Kuumenna ilman kantta uunissa 175°C n. 25 min, mikroaaltouunissa (750 W) mikronkestävälle astialle annosteltuna n. 2 - 3 min tai pannulla keskilämmöllä yhteensä n. 5 min välillä kääntäen.",
+          "servingSuggestion": null
+        }
+      ]
+    },
+    "dietTypes": [
+      {
+        "attributeValueID": "freeFromColouringAgents",
+        "attributeValue": "Ei sisällä väriä lisäaineena"
+      },
+      {
+        "attributeValueID": "freeFromGluten",
+        "attributeValue": "Gluteeniton, alle 20 mg/ 1 kg"
+      },
+      {
+        "attributeValueID": "freeFromPreservatives",
+        "attributeValue": "Säilöntäaineeton"
+      },
+      {
+        "attributeValueID": "freeFromAdditives",
+        "attributeValue": "Lisäaineeton"
+      }
+    ],
+    "nutrients": {
+      "100g": {
+        "nutrientBasisQuantity": 100,
+        "nutrientBasisQuantityUOM": "Gramma",
+        "nutrients": [
+          {
+            "nutrientTypeCode": "ENERKJO",
+            "nutrientSequence": 1,
+            "dailyValueIntakePercent": 100,
+            "quantityContained": 1400,
+            "quantityContainedFormatted": "1400",
+            "preparationStateCode": "UNPREPARED",
+            "preparationState": "Valmistamaton",
+            "nutrientType": "Energia",
+            "quantityContainedUOM": "Kilojoule"
+          }
+        ]
+      },
+      "100ml": null,
+      "vitaminsMinerals": null
+    },
+    "ingredientStatement": "Kaurapohja vesi, suomalainen täysjyväKAURA (9 %), rypsiöljy, kalsiumkarbonaatti, suola, stabilointiaine (gellaanikumi), vitamiinit ja kivennäisaineet (riboflaviini, foolihappo, jodi, D2, B12), mango, kookospähkinä (Sri Lanka). RA (9 %), rypsiöljy, kalsiumkarbonaatti, suola, stabilointiaine (gellaanikumi), vitamiinit ja kivennäisaineet (riboflaviini, foolihappo, jodi, D2, B12), mango, kookospähkinä (Sri Lanka). ",
+    "inPromotion": true,
+    "custom": {
+      "promotionPrice": "7.00",
+      "promotionUnitPrice": "11.67",
+      "promotionComponentPrice": null,
+      "promotionTotalPrice": "7.00",
+      "promotionPlussa": "true",
+      "promotionPeriod": "04.01. - 25.04.",
+      "promotionForBatchOf": "2",
+      "promotionMaxItems": null,
+      "promotionMinItems": null,
+      "pricingUnit": "kpl",
+      "groupId": "2542",
+      "componentPrice": null,
+      "scaleNumber": "12",
+      "promotionContinuousOffer": "false",
+      "displayEan": "2000612500002",
+      "chain": "KCM",
+      "language": "FI",
+      "amountInContainer": "12",
+      "additionalInfo": "Pirkka jäävuorisalaatti",
+      "productFamilyDescription": "Pirkka jäävuorisalaatti",
+      "campaignLimitationText": "Rajoitus 2 erää/talous",  
+      "sizeOfSalesPackage": "1.00",
+      "marketingName": "Pirkka jäävuorisalaatti",
+      "priceGroupMarketingName": null     
+    }
+  }
+]
